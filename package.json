@@ -1,0 +1,31 @@
+{
+  "name": "avaliacaofinaljp",
+  "version": "1.0.0",
+  "description": "avaliação",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurhenriqueabreu/AvaliacaoFinalJp.git"
+  },
+  "keywords": [
+    "avaliacaojp",
+    "jp"
+  ],
+  "author": "Arthur Henrique Abreu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurhenriqueabreu/AvaliacaoFinalJp/issues"
+  },
+  "homepage": "https://github.com/arthurhenriqueabreu/AvaliacaoFinalJp#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.1",
+    "jest": "^29.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.4",
+    "sequelize": "^6.37.5"
+  }
+}
